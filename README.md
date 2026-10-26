@@ -7,7 +7,7 @@ LeetCode, CodeChef &amp; . Synced by SolveBase.
 
 Synced automatically by SolveBase.
 
-**Total solved: 2**
+**Total solved: 3**
 
 ## Codeforces
 
@@ -46,10 +46,11 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 1**
+**Solved: 2**
 
 | Difficulty | Solved |
 | --- | --- |
+| [400](./codechef/400) | 1 |
 | [600](./codechef/600) | 1 |
 
 
@@ -64,5 +65,5 @@ Solutions organized by difficulty level.
 | — | 0 |
 
 
-_Last updated: 2026-10-22_
+_Last updated: 2026-10-26_
 <!-- /cf-sync -->
