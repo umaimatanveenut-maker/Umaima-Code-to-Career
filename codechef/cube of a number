@@ -1,0 +1,15 @@
+#include<stdio.h>
+int cube(int a)
+{
+    return a*a*a;
+
+}
+int main(void)
+{
+    int x;
+    x=cube(3);
+
+    printf("The cube of entered number is %d\n",x);
+
+    return 0;
+}
